@@ -1,6 +1,52 @@
 # <a href="https://www.linkedin.com/in/akentitpro/">Anthony Kent's</a> IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+# 👋 About Me
+
+I’m a systems engineer turned cybersecurity professional with a deep passion for defending digital environments and a track record of adapting fast to today’s evolving threat landscape. With over two decades of IT experience and a growing arsenal of security certifications and practical skills, I specialize in translating real-world challenges into actionable, secure solutions.
+
+Currently focused on Blue Team defense and security engineering, I’m actively building my expertise in vulnerability management, threat detection, and SOC operations using tools like **Tenable**, **Microsoft Sentinel**, **Qualys**, and **Splunk**. I thrive in environments where technical curiosity, proactive mitigation, and teamwork converge.
+
+---
+
+## 🔐 Cybersecurity Focus Areas
+
+- **Security Operations (SOC)** – Experience in triaging incidents, reviewing SIEM alerts, and contributing to threat response playbooks.  
+- **Vulnerability Management** – Hands-on labs and training using Tenable, Qualys, and CVE analysis to assess and remediate system weaknesses.  
+- **Cloud Security** – Learning secure configurations in Microsoft Azure and exploring threat detection with Microsoft Defender & Sentinel.  
+- **Script Automation** – PowerShell and Bash scripting for scanning, system hardening, and automated alert responses.  
+- **SIEM & Threat Hunting** – Creating detection rules and dashboards in Microsoft Sentinel using KQL for deep-dive investigations.  
+- **Frameworks & Compliance** – Familiar with NIST CSF, CIS Controls, and PCI-DSS through coursework and applied labs.
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 Google Cybersecurity Professional Certificate  
+- 🎓 IBM Generative AI for Cybersecurity Professionals  
+- 🛡️ CompTIA Security+ (in progress, exam scheduled)  
+- 🧠 CySA+, AZ-500, and CCSP (planned milestones)  
+- 🛠️ Cisco Networking Academy & former CCNA holder  
+
+---
+
+## 🔧 Tools I Work With
+
+| Category           | Tools & Platforms |
+|--------------------|-------------------|
+| SIEM & EDR         | Microsoft Sentinel, Defender for Endpoint, Splunk (training) |
+| Vulnerability Mgmt | Tenable Nessus, Qualys VMDR |
+| Scripting & Infra  | PowerShell, Bash, Linux, Windows Server |
+| Threat Intel & AI  | CVE/CWE databases, IBM Generative AI for CyberSec |
+| Monitoring & Logs  | Wazuh, Grafana, Prometheus (lab use) |
+
+---
+
+## 🤝 Let’s Connect
+
+I'm currently looking to grow with teams who value proactive defense, practical learning, and mission-driven execution. Whether you're building out a SOC, refining cloud defenses, or just need a motivated analyst to step in—I’m game.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/akentitpro/)  
+📁 [GitHub Portfolio](https://github.com/AnthonyKSec)
 
 ## ⚠️ Vulnerability Management Projects
 
