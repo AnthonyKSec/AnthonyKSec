@@ -16,7 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Threat Hunting Scenario Project 5 - Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/churd-git/Threat-Hunting-Phantom-Hackers-APT)**
 
 ## ☁️ Cloud Projects
-- **[Microsoft Azure Honeypot 🍯](https://github.com/churd-git/Azure-Honeypot)**
+- **[Microsoft Azure Honeypot 🍯](https://github.com/AnthonyKSec/Azure-Honeypot)**
 
 <hr/>
 
