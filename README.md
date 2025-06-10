@@ -52,6 +52,7 @@ I'm currently looking to grow with teams who value proactive defense, practical 
 
 - **[Vulnerability Management Program Implementation](https://github.com/AnthonyKSec/vulnerability-management-program/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/AnthonyKSec/programmatic-vulnerability-remediations)**
+- **[STIG Remediation: Windows Application Log Size (WN10-AU-000500))](https://github.com/AnthonyKSec/STIG-Remediation-Windows-Application-Log-Size)**
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -62,6 +63,8 @@ I'm currently looking to grow with teams who value proactive defense, practical 
 - **[Threat Hunting Scenario Project 5 - Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/AnthonyKSec/Threat-Hunting-Phantom-Hackers-APT)**
 
 ## ☁️ Cloud Projects
+- **[Active Directory & Powershell Automation Lab](https://github.com/techgneek/Active-Directory-and-Powershell-Automation)**
+- **[Azure Cloud Infrastructure Lab](https://github.com/techgneek/Azure-Cloud-Infrastructure-Lab)**
 - **[Microsoft Azure Honeypot 🍯](https://github.com/AnthonyKSec/Azure-Honeypot)**
 
 <hr/>
@@ -69,8 +72,10 @@ I'm currently looking to grow with teams who value proactive defense, practical 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [linkedin]: https://www.linkedin.com/in/akentitpro/___________
+[linkedin]: https://www.youtube.com/@SecOpsSymphony___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
