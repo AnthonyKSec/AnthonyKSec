@@ -78,7 +78,7 @@ I'm currently looking to grow with teams who value proactive defense, practical 
 
 [linkedin]: https://www.linkedin.com/in/akentitpro/___________
 [youtube]: https://www.youtube.com/@SecOpsSymphony
-[twitter]: https://twitter.com/rhinoak1
+[twitter]: https://twitter.com/rhinoak
 [instagram]: https://www.instagram.com/
 
  
