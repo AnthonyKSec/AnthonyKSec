@@ -64,18 +64,20 @@ I'm currently looking to grow with teams who value proactive defense, practical 
 
 ## ☁️ Cloud Projects
 - **[Active Directory & Powershell Automation Lab](https://github.com/techgneek/Active-Directory-and-Powershell-Automation)**
-- **[Azure Cloud Infrastructure Lab](https://github.com/techgneek/Azure-Cloud-Infrastructure-Lab)**
+- **[Azure Cloud Infrastructure Lab ☁️](https://github.com/techgneek/Azure-Cloud-Infrastructure-Lab)**
 - **[Microsoft Azure Honeypot 🍯](https://github.com/AnthonyKSec/Azure-Honeypot)**
 
 <hr/>
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://www.youtube.com/c/@TechGneek| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="https://wwww.twitter.com/techgneek| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://wwww.linkedin.com/jamesmoore1983| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.instagram.com/jamesahbumoore| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/akentitpro/___________
-[linkedin]: https://www.youtube.com/@SecOpsSymphony___________
+[youtube]: https://www.youtube.com/@SecOpsSymphony___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
