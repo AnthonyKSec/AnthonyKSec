@@ -77,8 +77,11 @@ I'm currently looking to grow with teams who value proactive defense, practical 
 [<img align="left" alt="https://www.instagram.com/jamesahbumoore| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/akentitpro/___________
-[youtube]: https://www.youtube.com/@SecOpsSymphony___________
+[youtube]: https://www.youtube.com/c/@SecOpsSymphony
+[twitter]: https://twitter.com/rhinoak1
+[instagram]: https://www.instagram.com/
 
+ 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
