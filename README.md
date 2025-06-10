@@ -63,8 +63,8 @@ I'm currently looking to grow with teams who value proactive defense, practical 
 - **[Threat Hunting Scenario Project 5 - Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/AnthonyKSec/Threat-Hunting-Phantom-Hackers-APT)**
 
 ## ☁️ Cloud Projects
-- **[Active Directory & Powershell Automation Lab](https://github.com/techgneek/Active-Directory-and-Powershell-Automation)**
-- **[Azure Cloud Infrastructure Lab ☁️](https://github.com/techgneek/Azure-Cloud-Infrastructure-Lab)**
+- **[Active Directory & Powershell Automation Lab](https://github.com/AnthonyKSec/Active-Directory-and-Powershell-Automation/tree/main)**
+- **[Azure Cloud Infrastructure Lab ☁️](https://github.com/AnthonyKSec/Azure-Cloud-Infrastructure-Lab)**
 - **[Microsoft Azure Honeypot 🍯](https://github.com/AnthonyKSec/Azure-Honeypot)**
 
 <hr/>
