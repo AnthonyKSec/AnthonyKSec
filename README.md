@@ -21,11 +21,13 @@ Currently focused on Blue Team defense and security engineering, I’m actively 
 
 ## 🎓 Education & Certifications
 
-- 🎓 Google Cybersecurity Professional Certificate  
-- 🎓 IBM Generative AI for Cybersecurity Professionals  
-- 🛡️ CompTIA Security+ (in progress, exam scheduled)  
-- 🧠 CySA+, AZ-500, and CCSP (planned milestones)  
-- 🛠️ Cisco Networking Academy & former CCNA holder  
+- 🎓 [Google Cybersecurity Professional Certificate](https://coursera.org/share/3c7a094668fe2655f929263dfebb3994)  
+- 🎓 [IBM Generative AI for Cybersecurity Professionals](https://coursera.org/share/cd9a2528bb1fcaf26976ccaa07efa37c)  
+- 🛡️ [CompTIA Security+ (in progress, exam scheduled)](https://www.comptia.org/certifications/security)  
+- 🧠 [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) • [AZ-500](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/) • [CCSP](https://www.isc2.org/Certifications/CCSP) (planned milestones)  
+- 🛠️ [Cisco Networking Academy](https://www.netacad.com/) & former CCNA holder  
+- 🔍 [Qualys Certified Specialist](https://www.qualys.com/training/certifications/)  
+- 🖥️ [VMware Certified Professional (VCP/CMA)](https://www.credly.com/badges/188491c7-b059-4aa1-b6c7-bafc5de89351?source=linked_in_profile) (https://www.credly.com/badges/109bfb6a-ca01-481c-ad4d-b5d1d9cdad8d?) 
 
 ---
 
