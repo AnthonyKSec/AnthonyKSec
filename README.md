@@ -1,90 +1,137 @@
-# <a href="https://www.linkedin.com/in/akentitpro/">Anthony Kent's</a> IT and Cybersecurity Project Portfolio 🔐
+# Anthony Kent | IT & Cybersecurity Project Portfolio 🔐
 
-# 👋 About Me
+## 👋 About Me
 
-I’m a systems engineer turned cybersecurity professional with a deep passion for defending digital environments and a track record of adapting fast to today’s evolving threat landscape. With over two decades of IT experience and a growing arsenal of security certifications and practical skills, I specialize in translating real-world challenges into actionable, secure solutions.
+I’m a **systems engineer transitioning deeper into security engineering**, with more than two decades of IT experience across infrastructure, systems, networking, troubleshooting, and operations.
 
-Currently focused on Blue Team defense and security engineering, I’m actively building my expertise in vulnerability management, threat detection, and SOC operations using tools like **Tenable**, **Microsoft Sentinel**, **Qualys**, and **Splunk**. I thrive in environments where technical curiosity, proactive mitigation, and teamwork converge.
+My current focus is building practical capability in **Blue Team security engineering, vulnerability management, detection and response, SIEM operations, cloud security, and automation**. I’m especially interested in work where strong infrastructure fundamentals and security engineering intersect.
+
+Rather than treating labs as isolated exercises, I document the architecture, implementation, validation, troubleshooting, failure testing, recovery, and evidence behind each build.
 
 ---
 
-## 🔐 Cybersecurity Focus Areas
+# 🛡️ Flagship Project — CyberBlue / Cyber Forge
 
-- **Security Operations (SOC)** – Experience in triaging incidents, reviewing SIEM alerts, and contributing to threat response playbooks.  
-- **Vulnerability Management** – Hands-on labs and training using Tenable, Qualys, and CVE analysis to assess and remediate system weaknesses.  
-- **Cloud Security** – Learning secure configurations in Microsoft Azure and exploring threat detection with Microsoft Defender & Sentinel.  
-- **Script Automation** – PowerShell and Bash scripting for scanning, system hardening, and automated alert responses.  
-- **SIEM & Threat Hunting** – Creating detection rules and dashboards in Microsoft Sentinel using KQL for deep-dive investigations.  
-- **Frameworks & Compliance** – Familiar with NIST CSF, CIS Controls, and PCI-DSS through coursework and applied labs.
+![CyberBlue Cyber Forge Range Architecture](https://raw.githubusercontent.com/AnthonyKSec/CyberBlue/main/assets/cyberblue-network-architecture.png)
+
+## [CyberBlue — Cyber Forge](https://github.com/AnthonyKSec/CyberBlue)
+
+**CyberBlue** is my hands-on cybersecurity training and portfolio project built around a repeatable cyber range called **Cyber Forge**.
+
+The project is designed to demonstrate the ability to **design, build, validate, troubleshoot, secure, document, and qualify real security capabilities** inside a controlled environment.
+
+### Current Cyber Forge Progress
+
+| Module | Capability | Status |
+|---|---|---|
+| Module 02 | Cyber Forge Range Foundation | **QUALIFIED ✓** |
+| Module 03 | Virtual Networking & Segmentation | **BUILD COMPLETE ✓** |
+| Module 04 | Endpoint Telemetry & Logging | **BUILD COMPLETE ✓** |
+| Module 05 | Centralized Logging & SIEM Foundations | **BUILD COMPLETE ✓** |
+
+### Capabilities demonstrated so far
+
+- Proxmox VE virtualization and segmented lab architecture
+- Linux bridge networking and IPv4 routing
+- Stateful segmentation policy with nftables
+- Windows and Linux endpoint telemetry
+- Sysmon and Linux auditd instrumentation
+- Wazuh SIEM deployment and hardening
+- Linux and Windows Wazuh agent enrollment
+- Centralized sudo and Sysmon event correlation
+- Least-privilege cross-segment telemetry transport
+- Controlled telemetry-path failure and recovery testing
+- Buffered-event recovery and post-outage validation
+- Snapshot, rollback, cleanup, and evidence-driven documentation
+
+The Cyber Forge training method is:
+
+```text
+Principle → Architecture → Build → Validate → Break/Test
+→ Troubleshoot → Restore → Explain → Document → Qualify
+```
+
+**[View the CyberBlue / Cyber Forge repository →](https://github.com/AnthonyKSec/CyberBlue)**
+
+---
+
+## 🔐 Security Engineering Focus
+
+- **Security Engineering** – Building and hardening infrastructure, telemetry paths, segmentation controls, and security platforms.
+- **Vulnerability Management** – Hands-on labs and training using Tenable, Qualys, CVE analysis, remediation workflows, and STIG-based hardening.
+- **Detection & Response** – Endpoint telemetry, SIEM correlation, threat hunting, event investigation, controlled failure testing, and visibility-gap analysis.
+- **Cloud Security** – Secure Microsoft Azure configuration, monitoring, and cloud-focused security operations.
+- **Automation** – PowerShell and Bash scripting for administration, remediation, scanning, and repeatable operational workflows.
+- **Infrastructure Security** – Linux, Windows, virtualization, routing, service hardening, access control, logging, and troubleshooting.
+
+---
+
+## 🔧 Tools & Platforms
+
+| Category | Tools & Platforms |
+|---|---|
+| Virtualization / Infrastructure | Proxmox VE, VMware, Linux, Windows Server |
+| SIEM / Logging | Wazuh, Microsoft Sentinel, Splunk (training), Windows Event Viewer |
+| Endpoint Telemetry | Sysmon, auditd, journalctl |
+| Networking / Segmentation | Linux bridges, nftables, TCP/IP, routing, packet-path validation |
+| Vulnerability Management | Tenable Nessus, Qualys VMDR, STIG remediation |
+| Scripting / Automation | PowerShell, Bash |
+| Containers | Docker, Docker Compose |
+| Cloud | Microsoft Azure, Defender, Sentinel |
+| Threat Hunting / Analysis | KQL, CVE/CWE research, event correlation |
 
 ---
 
 ## 🎓 Education & Certifications
 
-- 🎓 [Google Cybersecurity Professional Certificate](https://coursera.org/share/3c7a094668fe2655f929263dfebb3994)  
-- 🎓 [IBM Generative AI for Cybersecurity Professionals](https://coursera.org/share/cd9a2528bb1fcaf26976ccaa07efa37c)  
-- 🛡️ [CompTIA Security+ (in progress, exam scheduled)](https://www.comptia.org/certifications/security)  
-- 🧠 [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) • [AZ-500](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/) • [CCSP](https://www.isc2.org/Certifications/CCSP) (planned milestones)  
-- 🛠️ [Cisco Networking Academy](https://www.netacad.com/) & former CCNA holder  
-- 🔍 [Qualys Certified Specialist](https://www.qualys.com/training/certifications/)  
-- 🖥️ [VMware Certified Professional (VCP/CMA)](https://www.credly.com/badges/188491c7-b059-4aa1-b6c7-bafc5de89351?source=linked_in_profile) (https://www.credly.com/badges/109bfb6a-ca01-481c-ad4d-b5d1d9cdad8d?) 
+- 🎓 [Google Cybersecurity Professional Certificate](https://coursera.org/share/3c7a094668fe2655f929263dfebb3994)
+- 🎓 [IBM Generative AI for Cybersecurity Professionals](https://coursera.org/share/cd9a2528bb1fcaf26976ccaa07efa37c)
+- 🛡️ [CompTIA Security+](https://www.comptia.org/certifications/security) — in progress
+- 🧠 [CySA+](https://www.comptia.org/certifications/cybersecurity-analyst) • [AZ-500](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/) • [CCSP](https://www.isc2.org/Certifications/CCSP) — planned milestones
+- 🛠️ Cisco Networking Academy; former CCNA holder
+- 🔍 Qualys Certified Specialist
+- 🖥️ VMware Certified Professional (VCP/CMA)
 
 ---
 
-## 🔧 Tools I Work With
+# Selected Security Projects
 
-| Category           | Tools & Platforms |
-|--------------------|-------------------|
-| SIEM & EDR         | Microsoft Sentinel, Defender for Endpoint, Splunk (training) |
-| Vulnerability Mgmt | Tenable Nessus, Qualys VMDR |
-| Scripting & Infra  | PowerShell, Bash, Linux, Windows Server |
-| Threat Intel & AI  | CVE/CWE databases, IBM Generative AI for CyberSec |
-| Monitoring & Logs  | Wazuh, Grafana, Prometheus (lab use) |
+## ⚠️ Vulnerability Management
+
+- **[Vulnerability Management Program Implementation](https://github.com/AnthonyKSec/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations — PowerShell & Bash](https://github.com/AnthonyKSec/programmatic-vulnerability-remediations)**
+- **[STIG Remediation — Windows Application Log Size](https://github.com/AnthonyKSec/STIG-Remediation-Windows-Application-Log-Size)**
+
+## 🚨 Threat Hunting & Security Operations
+
+- **[Threat Hunting Scenario — Tor Browser Usage](https://github.com/AnthonyKSec/threat-hunting-scenario-tor)**
+- **[PowerShell — Command and Scripting Interpreter (T1059.001)](https://github.com/AnthonyKSec/Threat-Hunting-T1059)**
+- **[Credential Stuffing / Brute Force (T1110.004)](https://github.com/AnthonyKSec/Threat-Hunting-Cridential-Stuffing)**
+- **[Data Exfiltration Scenario](https://github.com/AnthonyKSec/Threat-Hunting-Data-Exfiltration)**
+- **[Phantom APT Scenario](https://github.com/AnthonyKSec/Threat-Hunting-Phantom-Hackers-APT)**
+
+## ☁️ Infrastructure & Cloud
+
+- **[Active Directory & PowerShell Automation Lab](https://github.com/AnthonyKSec/Active-Directory-and-Powershell-Automation)**
+- **[Microsoft Azure Honeypot](https://github.com/AnthonyKSec/Azure-Honeypot)**
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 Current Direction
 
-I'm currently looking to grow with teams who value proactive defense, practical learning, and mission-driven execution. Whether you're building out a SOC, refining cloud defenses, or just need a motivated analyst to step in—I’m game.
+I’m focused on engineering-oriented cybersecurity work where I can apply my systems background to:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/akentitpro/)  
-📁 [GitHub Portfolio](https://github.com/AnthonyKSec)
+- security engineering
+- vulnerability management
+- detection and response
+- SIEM / telemetry engineering
+- cloud security
+- secure infrastructure and automation
 
-## ⚠️ Vulnerability Management Projects
+---
 
-- **[Vulnerability Management Program Implementation](https://github.com/AnthonyKSec/vulnerability-management-program/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/AnthonyKSec/programmatic-vulnerability-remediations)**
-- **[STIG Remediation: Windows Application Log Size (WN10-AU-000500))](https://github.com/AnthonyKSec/STIG-Remediation-Windows-Application-Log-Size)**
+## 🤝 Connect With Me
 
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/AnthonyKSec/threat-hunting-scenario-tor)**
-- **[Threat Hunting Scenario Project 2 - Command and Scripting Interpreter: PowerShell (T1059.001)](https://github.com/AnthonyKSec/Threat-Hunting-T1059)**
-- **[Threat Hunting Scenario Project 3 - Brute force, Credential Stuffing (T1110.004)](https://github.com/AnthonyKSec/Threat-Hunting-Cridential-Stuffing)**
-- **[Threat Hunting Scenario Project 4 - Data Exfiltration (T1027.003)](https://github.com/AnthonyKSec/Threat-Hunting-Data-Exfiltration)**
-- **[Threat Hunting Scenario Project 5 - Phantom APT (T1566, T1059, T1056.001, T1567)](https://github.com/AnthonyKSec/Threat-Hunting-Phantom-Hackers-APT)**
-
-## ☁️ Cloud Projects
-- **[Active Directory & Powershell Automation Lab](https://github.com/AnthonyKSec/Active-Directory-and-Powershell-Automation/tree/main)**
-- **[Azure Cloud Infrastructure Lab ☁️](https://github.com/AnthonyKSec/Azure-Cloud-Infrastructure-Lab)**
-- **[Microsoft Azure Honeypot 🍯](https://github.com/AnthonyKSec/Azure-Honeypot)**
-
-<hr/>
-
-## 🤳 Connect With Me
-
-[<img align="left" alt="https://www.youtube.com/c/@TechGneek| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://wwww.twitter.com/techgneek| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="https://wwww.linkedin.com/jamesmoore1983| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://www.instagram.com/jamesahbumoore| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[linkedin]: https://www.linkedin.com/in/akentitpro/___________
-[youtube]: https://www.youtube.com/@SecOpsSymphony
-[twitter]: https://twitter.com/rhinoak
-[instagram]: https://www.instagram.com/
-
- 
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akentitpro/)
+- 📁 [GitHub Portfolio](https://github.com/AnthonyKSec)
+- 🛡️ [CyberBlue / Cyber Forge](https://github.com/AnthonyKSec/CyberBlue)
